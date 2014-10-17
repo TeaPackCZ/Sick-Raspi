@@ -1,0 +1,3 @@
+Code for RaspberryPi used on SICK Robot Day 2014
+
+Dependecies: numpy, OpenCV 2.4.*
